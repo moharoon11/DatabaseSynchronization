@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DbSync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+876d3ac0515bf7a6038b7397d477a5004c226b08")]
 [assembly: System.Reflection.AssemblyProductAttribute("DbSync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DbSync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
