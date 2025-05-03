@@ -1977,19 +1977,19 @@
     ]
   },
   "packageFolders": {
-    "/home/haroon/.nuget/packages/": {}
+    "/home/innowave/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/haroon/dotnetprojects/DbSync/DbSync.csproj",
+      "projectUniqueName": "/home/innowave/Haroon/Dbsync/DatabaseSynchronization/DbSync.csproj",
       "projectName": "DbSync",
-      "projectPath": "/home/haroon/dotnetprojects/DbSync/DbSync.csproj",
-      "packagesPath": "/home/haroon/.nuget/packages/",
-      "outputPath": "/home/haroon/dotnetprojects/DbSync/obj/",
+      "projectPath": "/home/innowave/Haroon/Dbsync/DatabaseSynchronization/DbSync.csproj",
+      "packagesPath": "/home/innowave/.nuget/packages/",
+      "outputPath": "/home/innowave/Haroon/Dbsync/DatabaseSynchronization/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/haroon/.nuget/NuGet/NuGet.Config"
+        "/home/innowave/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -2007,11 +2007,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -2051,7 +2046,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

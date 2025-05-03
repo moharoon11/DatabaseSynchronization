@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DbSync
-build_property.ProjectDir = /home/haroon/dotnetprojects/DbSync/
+build_property.ProjectDir = /home/innowave/Haroon/Dbsync/DatabaseSynchronization/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
